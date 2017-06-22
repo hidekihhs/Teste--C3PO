@@ -19,3 +19,6 @@ C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\obj\Debug\ConsoleApplica
 C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe
 C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\bin\Debug\ConsoleApplication1.pdb
 C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\teste2\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\teste2\teste_henrique_hideki\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\teste2\teste_henrique_hideki\obj\Debug\ConsoleApplication1.pdb
