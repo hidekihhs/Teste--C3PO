@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\teste_henrique_hideki\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\teste_henrique_hideki\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\teste_henrique_hideki\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\teste_henrique_hideki\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Teste--C3PO\teste_henrique_hideki\obj\Debug\Teste.csprojResolveAssemblyReference.cache
